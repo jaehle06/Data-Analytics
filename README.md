@@ -1,6 +1,5 @@
 # Data-Analytics
-[python을 통한 데이터 분석]
-[R을 통한 데이터 분석 사례]: http://rpubs.com/livingboyinseoul 
+[R을 통한 데이터 분석 사례] → http://rpubs.com/livingboyinseoul 
 
 # upload jupyter notebook on GitHub
 1. 로컬 저장소 만들기 
